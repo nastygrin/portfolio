@@ -18,7 +18,7 @@ const About=()=>{
                 </div>
                 </Col>
                 <Col className="text-center mt-5">
-                    <img src={pic} alt='logo'/>
+                    <img src={pic} hieght="300px" width="358px" alt='logo'/>
                 </Col>
             </Row>
         </Container>

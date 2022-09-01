@@ -10,6 +10,9 @@ import bm3 from '../img/bm3.png';
 import el1 from '../img/el1.png';
 import el2 from '../img/el2.png';
 import el3 from '../img/el3.png';
+import qs1 from '../img/qs1.png';
+import qs2 from '../img/qs2.png';
+import qs3 from '../img/qs3.png';
 
 const Data=[
     {
@@ -46,8 +49,11 @@ const Data=[
         "title": "QuickSort Webapp",
         "para1": "A web application to organize the team workflow in an efficient manner by segregating tasks into different tracks, i.e to do, doing, done",
         "para2": "Key technologies used here are ReactJS, NodeJS and MongoDB. In addition, MUI and Bootstrap have been used for frontend components.",
-        "demo": "https://github.com/pragati2526/ToDo",
-        "github": "https://github.com/pragati2526/ToDo"
+        "demo": "https://quicksort-75ac6.web.app/",
+        "github": "https://github.com/pragati2526/ToDo",
+        "img1": qs1,
+        "img2": qs2,
+        "img3": qs3
     },
     {
         "title": "ExpenseLogger Webapp",
