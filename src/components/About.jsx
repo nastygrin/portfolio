@@ -12,7 +12,7 @@ const About=()=>{
             <Row className="ml-3 pt-4">
                 <Col className="d-flex justify-content-center p-5 mt-4">
                 <div className="mx-auto" style={{align:'right'}}>
-                <p style={{color:'#fff', fontSize:'1.25em', fontFamily:'Source Sans Pro'}}>I'm a final-year student pursuing Btech in Computer Science. I'm a data science enthusiast passionate about solving real-world problems by building efficient and impactful applications equipped with machine learning and artificial intelligence.</p>
+                <p style={{color:'#fff', fontSize:'1.25em', fontFamily:'Source Sans Pro'}}>I'm a final-year student pursuing B.Tech in Computer Science. I'm a data science enthusiast passionate about solving real-world problems by building efficient and impactful applications equipped with machine learning and artificial intelligence.</p>
                 <p style={{color:'#fff', fontSize:'1.25em', fontFamily:'Source Sans Pro'}}>In this ever-growing digital world, I like to look at the numbers that drive action, meaning that the data tells us what to do next. I think of data as the new soil, Get in and get your hands dirty. </p>
                 <p style={{color:'#fff', fontSize:'1.25em', fontFamily:'Source Sans Pro'}}>Another realm that intrigues me the most is frontend development. I like collaborating with my peers and incorporating the latest technologies into building applications that make daily life easier every day.</p>
                 </div>

@@ -19,7 +19,7 @@ const Data=[
         "title": "ThoughtAI",
         "para1": "This Deep Learning-based tool can be used to ease the process of moderation on chat forums and social networking websites by analyzing the toxicity of the chat threads.",
         "para2": "It aims to resolve the unintended bias encountered in the toxicity classification.",
-        "demo": "https://github.com/nastygrin/ThoughtAI",
+        "demo": "https://colab.research.google.com/drive/1l238EUL6YYGCMWtRUR0TlHWGVhNeo-tr#scrollTo=3qyrhUBl5LhP",
         "github": "https://github.com/nastygrin/ThoughtAI",
         "img1": ThoughtAI_1,
         "img2": ThoughtAI_2,
